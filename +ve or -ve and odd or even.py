@@ -11,3 +11,10 @@ if a % 2 == 0:
     print(f"The number {a} is even.")
 else:
     print(f"The number {a} is odd.")
+
+#output
+Enter an integer: -19
+The number -19 is negative.
+The number -19 is odd.
+
+=== Code Execution Successful ===
